@@ -2,6 +2,9 @@
 
 This project provides a simple RESTful API interface for interacting with the Cohere AI model using go.
 
+<img width="1070" alt="api_demo" src="https://github.com/user-attachments/assets/b28b738f-2406-4367-bd47-f15cc4f4eb19">
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -15,7 +18,7 @@ This project provides a simple RESTful API interface for interacting with the Co
 
    ```bash
    git clone https://github.com/yourusername/my-cohere-api.git
-   cd my-cohere-api
+   cd THIS-RESPOS-NAME
    ```
 
 2. Create a `.env` file in the root of the project directory. This file should contain your Cohere API key. 
@@ -60,10 +63,12 @@ To test the API using Postman, follow these steps:
    {
      "message": "Hello, AI!"
    }
+
    ```
 
 7. Send the request and observe the response.
 
+<img width="1050" alt="api_post" src="https://github.com/user-attachments/assets/1563cc76-326e-47ad-8c88-28f234a1bfd1">
 
 ## License
 
